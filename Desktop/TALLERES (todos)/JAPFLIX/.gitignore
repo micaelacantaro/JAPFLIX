@@ -1,0 +1,5 @@
+# Ignorar carpetas de sistema y temporales
+AppData/
+*.log
+*.tmp
+node_modules/
