@@ -1,5 +1,4 @@
-# Ignorar carpetas de sistema y temporales
-AppData/
+# Ignorar archivos temporales y configuraciones de sistema
 *.log
 *.tmp
-node_modules/
+.DS_Store
