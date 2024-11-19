@@ -1,4 +1,0 @@
-# Ignorar archivos temporales y configuraciones de sistema
-*.log
-*.tmp
-.DS_Store
